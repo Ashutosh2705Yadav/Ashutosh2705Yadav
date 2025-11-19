@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" alt="hacker animation" width="600"/>
+</p>
 <h1 align="center">👋 Hi, I'm Ashutosh</h1>
 <h3 align="center">Full-Stack Developer | SDE Intern Aspirant</h3>
 
