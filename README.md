@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/master/assets/terminal.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"/>
 </p>
 <h1 align="center">👋 Hi, I'm Ashutosh</h1>
 <h3 align="center">Full-Stack Developer | SDE Intern Aspirant</h3>
