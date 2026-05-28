@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="600"/>
 </p>
-<h1 align="center">👋 Hi, I'm Ashutosh</h1>
+<h1 align="center">Hi, I'm Ashutosh Yadav</h1>
 <h3 align="center">Full-Stack Developer | SDE Intern Aspirant</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 I’m a developer who loves building clean, scalable and performance-focused applications — from full-stack web apps to OS-level utilities.
 
 - 🔭 Currently working on **CPU Scheduler Simulator**, **File System Recovery Tool** and the **Bikenest MERN App**
